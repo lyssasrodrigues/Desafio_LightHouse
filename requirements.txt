@@ -1,0 +1,10 @@
+
+**Conteúdo do requirements.txt:**
+
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+tkinter
